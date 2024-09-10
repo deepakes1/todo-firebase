@@ -4,7 +4,7 @@ import { useState } from 'react';
 import { useRef } from 'react'
  import TodoCard from './components/TodoCard';
 
-const firebaseUrl = "https://todo-project-eba02-default-rtdb.asia-southeast1.firebasedatabase.app/"
+const firebaseUrl = "https://todo-portfolio-4fa39-default-rtdb.asia-southeast1.firebasedatabase.app/"
 
 function App() {
   let taskInput = useRef();
